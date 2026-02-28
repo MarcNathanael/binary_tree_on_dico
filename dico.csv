@@ -1,0 +1,30 @@
+Linux , Systeme d'exploitation libre base sur le noyau de Linus Torvalds./
+Ubuntu , Distribution Linux populaire basee sur Debian parfaite pour les MB Pro !./
+Pointeur , Variable contenant l'adresse memoire d'une autre variable./
+Recursion , Fonction qui s'appelle elle-meme pour resoudre un probleme./
+Allocation , Action de reserver un espace memoire (ex: malloc)./
+Compilateur , Programme qui traduit le code source en langage machine (ex: gcc)./
+Binaire , Systeme de numeration utilisant uniquement 0 et 1./
+Debug , Processus de recherche et de correction d'erreurs dans un programme./
+Arbre , Structure de donnees hierarchique composee de noeuds./
+Algorithme , Suite finie et non ambigue d'operations pour resoudre un probleme./
+Variable , Espace de stockage nomme pour une valeur de donnees./
+Fonction , Bloc de code reutilisable qui effectue une tâche specifique./
+Librairie , Collection de fonctions et de ressources precompilees./
+Structure , Type de donnee personnalise regroupant plusieurs variables./
+Boucle , Structure de contrôle repetant des instructions tant qu'une condition est vraie./
+Condition , Instruction permettant de faire des choix logiques (if else)./
+Tableau , Collection d'elements de meme type stockes de maniere contigue./
+Memoire , Espace de stockage temporaire ou permanent pour les donnees./
+Processeur , Unite centrale de traitement qui execute les instructions./
+Compilation , Processus de transformation du code source en code executable./
+Interpretation , Execution directe d'instructions sans compilation prealable./
+Protocole , Ensemble de regles regissant la communication entre machines./
+Reseau , Ensemble d'ordinateurs interconnectes pour echanger des donnees./
+Serveur , Ordinateur fournissant des ressources ou des services a d'autres./
+Client , Programme ou ordinateur demandant des services a un serveur./
+Interface , Point de contact permettant l'interaction entre deux systemes./
+Securite , Mesures de protection contre les accès non autorises./
+Fichier , Unite de stockage d'informations sur un support permanent./
+Dossier , Conteneur permettant d'organiser les fichiers sur un disque./
+Shell , Interface en ligne de commande pour interagir avec le systeme./

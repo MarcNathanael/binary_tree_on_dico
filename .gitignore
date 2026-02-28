@@ -1,0 +1,14 @@
+# Exécutables
+dico_tree
+a.out
+
+# Fichiers objets 
+*.o
+
+# Logs et crash dumps
+vgcore.*
+core
+*.log
+
+# Dossiers cachés de l'éditeur de texte
+.vscode/
