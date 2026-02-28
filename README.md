@@ -23,7 +23,7 @@ Le parseur s'attend à un format strict pour garantir l'intégrité des données
 Mot , Description complète du mot./
 
 ## Fonctionnement interne
-Le probleme resolue : des donnees deja triees degenere un abre en une simple liste chaînée . 
+Le probleme resolue : les donnees deja triees degenere un abre qui devient une simple liste chaînée . 
 Ce projet résout ce problème avec un algorithme récursif qui extrait systématiquement l'élément médian du segment courant pour en faire une racine, garantissant l'equilibre gauche et droite
 
 Tri rapide : Utilisation de qsort de la libc pour trier le tableau alphabétiquement en complexité O(n*log(n)).
