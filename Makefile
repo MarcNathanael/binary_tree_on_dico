@@ -18,21 +18,17 @@ $(EXEC): $(OBJS)
 
 # --- Règles d'exécution avec arguments ---
 
-# Lance le programme avec les arguments par défaut
 run: $(EXEC)
 	./$(EXEC) dico.csv "Linux"
-
-# Lance Valgrind avec les arguments par défaut pour vérifier les fuites
+	
 valgrind: $(EXEC)
 	valgrind --leak-check=full --show-leak-kinds=all ./$(EXEC) dico.csv "Linux"
 
 # --- Règles de nettoyage ---
 
-# Supprime les fichiers objets (.o)
 clean:
 	rm -f $(OBJS)
 
-# Supprime les objets et l'exécutable
 fclean: clean
 	rm -f $(EXEC)
 
