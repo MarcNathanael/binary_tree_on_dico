@@ -19,6 +19,7 @@ Exemple :
 
 📂 Format du fichier CSV attendu
 Le parseur s'attend à un format strict pour garantir l'intégrité des données :
+
 Mot , Description complète du mot./
 
 ## Fonctionnement interne
